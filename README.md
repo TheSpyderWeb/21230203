@@ -4,7 +4,7 @@ This repository contains various small projects and coding exercises, showcasing
 
 Contents
 
-Languages: Includes examples and exercises in languages like C++, C#, HTML, CSS, and Java.
+Languages: Includes examples and exercises in languages like C++, C#, HTML, CSS, and JavaScript.
 Concepts: Covers fundamental programming concepts like loops, conditional statements, functions, and data structures.
 Algorithms: Practice files for common algorithms, including sorting, searching, and basic data manipulation.
 Mini Projects: Small, standalone projects designed to apply multiple skills in one place.
